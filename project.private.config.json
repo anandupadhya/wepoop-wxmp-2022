@@ -1,6 +1,7 @@
 {
   "projectname": "wepoop-wxmp-2022",
   "setting": {
-    "compileHotReLoad": true
+    "compileHotReLoad": true,
+    "urlCheck": false
   }
 }
